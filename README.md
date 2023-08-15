@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SpiralBlast
+- 👋 Hi, I’m @DanielValik
 - 👀 I’m interested in frontend technologies and currently learning it.
 - 📫 My mail: danilvalik@gmail.com
 
