@@ -1,5 +1,9 @@
-- 👋 Hi, I’m @DanielValik
+- 👋 Hi, I’m Daniel Valik
 - 👀 I’m interested in frontend technologies and currently learning it.
+- My tech stack:
+  - HTML/CSS-SaSS
+  - JavaScript
+  - React (currently learning)
 - 📫 My mail: danilvalik@gmail.com
 
 <!---
