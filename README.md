@@ -14,6 +14,7 @@
     <img style="width: 50px; margin-rigth: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
     <img style="width: 50px; margin-rigth: 10px" src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" />
     <img style="width: 50px; margin-rigth: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
+    <img style="width: 50px; margin-rigth: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />      
   </div>
       
 
