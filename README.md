@@ -1,4 +1,4 @@
-<h1>Hi, I’m Daniel Valik 🦹🏻</h1>
+<h1>Hi, I’m Daniel Valik </h1>
     <p>
       - 👀 I’m interested in frontend technologies and currently learning it.
     </p>
